@@ -15,7 +15,7 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 # 💫 About Me:
-🔭 I’m currently working on - Generative AI<br>👯 I’m looking to collaborate on - Building the AI agents<br>🤝 I’m looking for help with<br>🌱 I’m currently learning <br>💬 Ask me about<br>⚡ Fun fact
+🔭 I’m currently working on - Building real-world projects using Generative AI & ML<br>👯 I’m looking to collaborate on - AI agents, Automation systems & Smart applications<br>🤝 I’m looking for help with - Scaling AI systems & deploying them in production<br>🌱 I’m currently learning - Advanced AI agendts, MLOps & System design <br>💬 Ask me about - Machine learning, Flask, Optimization algorithms & AI projects<br>⚡ Fun fact - I turn complex ideas into working prototypes faster than expected.....
 
 
 ## 🌐 Socials:
